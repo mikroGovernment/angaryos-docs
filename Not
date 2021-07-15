@@ -1,0 +1,92 @@
+altlarına kare ile bölmeler var incele
+
+
+Hızlı Başlangıç
+    hızlı kurulum, hızlı tablo hızlı yetki hızlı api
+
+Tanıtım
+    özet, genel özellikler, gereklilikler
+
+Kurulum
+    kurulum, portainer kontrol, update, logs devreye alma
+
+
+Tablolar ve Kolonlar
+    - Tablolara giriş
+        tek tablo ve kolon oluşturma
+    - Listeler
+        crud klon restore deleted kolon taşıma,  sorgu işleri ....(notepad de var)
+    - Formlar
+        (notepadde var)
+    - Bilgi kartı
+        (notepadde var)
+    - Kolonlara giriş
+        genel Bilg, db type, gui type
+    - İlişkili Tablolar
+        tipler tablosu ve ana tabloyu kaydet. tip oluştur ana form içinden de tip oluştur
+    - Kolon ilişki tipleri
+        tüm tipler, join kolon, data source
+    - Up columns
+    - validasyon
+    - toplu Bilgi
+    - varsayılan
+    - kolon Bilgi
+    - kolon dizileri setleri
+        başında *** olursa görünmez
+
+
+Yetkiler
+    - Yetki oluşturma yardımcısı
+    - Filtreler
+
+Yardımcı özellikler
+    - Variables
+    - Trigger
+    - Görevler
+    - Helper functions
+    - Helper Classes
+    - Kullanıcı taklit
+    - Link altı açıklama
+    - ayarlar
+    - sunucu logları
+    - cache temizle
+    - yetki yenile
+    - tablo grupları
+    - duyurular
+    - ek Link
+    - serbest içerik
+    - üyelik istekleri
+
+Export - Import
+
+Raporlar
+
+Data entegratör
+    -Excel
+    -postgresql
+    -ldap
+
+
+E-imza
+
+
+Harita
+    - Genel
+        geoserver, layers menu
+    - public Harita
+    - tablodan katman revize katman ek katman
+    - harita stil
+    - Veri üretme
+
+IOT
+    - device login
+    - mesai takip cihazı
+
+Frontend
+    - Göstergeler
+    - Kolon arayüz tetiklemeleri
+    - Form column visiblity
+    - Gui trigger
+
+
+Mobil
