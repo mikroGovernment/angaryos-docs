@@ -1,82 +1,156 @@
-altlarına kare ile bölmeler var incele
+Giriş
+    - Hızlı Başlangıç: hepsinde detay sayfalarına link ver
+        #hızlı açıklama
+        #hızlı kurulum, 
+        #hızlı tablo 
+        #hızlı yetki 
+        #hızlı api
 
+    - Tanıtım
+        #özet, 
+        #genel özellikler, 
+        #gereklilikler
 
-Hızlı Başlangıç
-    hızlı kurulum, hızlı tablo hızlı yetki hızlı api
-
-Tanıtım
-    özet, genel özellikler, gereklilikler
-
-Kurulum
-    kurulum, portainer kontrol, update, logs devreye alma
+    - Kurulum
+        #kurulum, 
+        #portainer kontrol, 
+        #update, 
+        #logs devreye alma
 
 
 Tablolar ve Kolonlar
     - Tablolara giriş
-        tek tablo ve kolon oluşturma
-    - Listeler
-        crud klon restore deleted kolon taşıma,  sorgu işleri ....(notepad de var)
-    - Formlar
-        (notepadde var)
-    - Bilgi kartı
-        (notepadde var)
-    - Kolonlara giriş
-        genel Bilg, db type, gui type
-    - İlişkili Tablolar
-        tipler tablosu ve ana tabloyu kaydet. tip oluştur ana form içinden de tip oluştur
-    - Kolon ilişki tipleri
-        tüm tipler, join kolon, data source
-    - Up columns
-    - validasyon
-    - toplu Bilgi
-    - varsayılan
-    - kolon Bilgi
-    - kolon dizileri setleri
-        başında *** olursa görünmez
+        #tek tablo ve kolon oluşturma
+    - Listeler: bu kolon dizisidir diye kısa bir box bilgi girilebilir. diğerleri için de form ve info
+        #listeleme
+        #ekleme butonu - detay için formla link ver
+        #düzenleme butonu - detay için forma link ver
+        #silme, çoklu silme
+        #klon 
+        
+        #hızlı düzenleme
+        
+        #kolon toplu bilgiler - ilgili sayfaya link ver
+        #dışarı aktarma - exporta importa link ver
+        #raporlama (kayıt ve tablo) - raporlar bölümüne link ver
 
+        #restore 
+        #deleted 
+        
+        #kolonlara göre kayıt sıralama
+        #kolon sırası taşıma kapatma,
+
+        #sorgu işleri, listede olmasa bile bi kolona sorgulama yapabilir bunun için yetki verebilirsiniz de. kolon dizileri içinde #sorgu ya link ver 
+        #hızlı arama
+        #detaylı arama
+
+        # grup by modu geliyor de
+        
+    - Formlar
+        #genel bilgi ve form tipleri: 
+            istediğiniz kişşiyi yetkilendirin de yetkilendirmelere link ver kolon dizilerine de
+            ....
+            #Aşamalı form tasarlayabilme -- ilgli sayfaya link ver. geliyor de
+        #kolona özel hata ve başarı mesajları
+        #üst kolon ile veri filtreleyebilme
+        #gui trigger -- ilgili sayfaya link ver
+        #ilgili kaydı form içinde düzenlemeyebilme ekleyebilme
+        #coğrafi kolona kml, netcad copyed data live location ekleyebilme 
+
+    - Bilgi kartı
+        #genel bilgi ve ... 
+            istediğiniz kişşiyi yetkilendirin de yetkilendirmelere link ver kolon dizilerine de
+            ...
+            #Standart, sekme, akordiyon, grup kutusu, buton altına gizli
+
+        #parça parça bilgi kartı tasarlayabilme
+        #farklı tablolardan kolon getirebilme
+        #farklı tablodaki ilişkili veriyi liste halinde istediğin yere gömebilme
+
+    - Kolonlara giriş
+        #genel bilgi, ilişki de verebilirsiniz de ilişkiler tablosuna link ver
+        #db type, 
+        #gui type
+
+    - İlişkili Tablolar
+        #tipler tablosu ve ana tabloyu oluştur ilişkili tablo göster.
+        #ilişkili veri: tip oluştur ana form içinden de tip oluştur
+
+    - İlişkili Kolonlar
+        # tüm tipler, 
+        # join kolon, 
+        # data source
+
+    - Validasyon
+    - Up columns
+    - Toplu Bilgi
+    - Varsayılan data
+    - Kolon Bilgi
+    - Kolon dizileri setleri: 
+        #form liste info farkı anlat 
+        box içinde 'başında *** olursa görünmez de'
+        #join göster
 
 Yetkiler
     - Yetki oluşturma yardımcısı
+        #adım adım ekleme yaptır ilgili sayfalara link ver. sayfası yok ise filtreler gibi bunun yada ilgili başlığın altına sayfa oluştur
     - Filtreler
 
 Yardımcı özellikler
-    - Variables
-    - Trigger
+    - Referanslar
+    - Tetikleyiciler
     - Görevler
+        #oluşturma
+        #zamanlanmış Görevler
+        #tetikleme
     - Helper functions
+        #
+        #
     - Helper Classes
-    - Kullanıcı taklit
-    - Link altı açıklama
+        #
+        #
     - ayarlar
-    - sunucu logları
-    - cache temizle
-    - yetki yenile
-    - tablo grupları
     - duyurular
     - ek Link
     - serbest içerik
     - üyelik istekleri
+    - tablo grupları
+        #Kullanıcı taklit
+        #Link altı açıklama
+        #sunucu logları
+        #cache temizle
+        #yetki yenile
 
 Export - Import
 
 Raporlar
+    #tablo
+    #kayıt
+    #önce veri seti gidiyor de sonra settki değişkenleri teker teker anlat
 
 Data entegratör
+    -data entegratöre giriş
     -Excel
     -postgresql
     -ldap
 
-
 E-imza
-
+    #Genel, uygulama çalıştırma. en sonra bir veri ile ilişkilendirerek tutar de aşağıa geç
+    #Kayıt için
+    #kolon için
 
 Harita
-    - Genel
-        geoserver, layers menu
-    - public Harita
-    - tablodan katman revize katman ek katman
-    - harita stil
-    - Veri üretme
+    - Haritaya Giriş
+        #geoserver, 
+        #layers 
+        #menu
+    - Serbest Harita
+    - katmanlar
+        #tablodan katman
+        #revize katman 
+        #ek katman
+    - katman stil
+    - coğrafi Veri üretme
 
 IOT
     - device login
@@ -87,6 +161,31 @@ Frontend
     - Kolon arayüz tetiklemeleri
     - Form column visiblity
     - Gui trigger
+
+Geliştirici (Backend)
+    -Genel, updateignore anlat update link ver
+    -mimari
+    -controller, 
+    - listener 
+    -models: base model ve user model
+        #base model içinde select
+        #where
+        ....
+    -base subscriber ve diğer subscriberlar
+    -triggerlar
+    -kernel
+    -jobs
+    -custom logs
+        #rabbit
+
+
+Geliştirici (Frontend)
+    -Genel, çalışma prensibi varnish
+    - mimari
+    -Custom list elements
+    -Custom form elements
+
+
 
 
 Mobil
