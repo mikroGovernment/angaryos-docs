@@ -1,7 +1,7 @@
 Tüm içerik için [tıklayınız](https://mikrogovernment.github.io/angaryos-docs/)  
 
 <p align="center">
-    <img src="https://github.com/mikroGovernment/angaryos-stack/blob/master/frontend/src/assets/themes/aero/assets/images/logo.png" width="200">
+    <img src="https://github.com/mikroGovernment/angaryos-stack/raw/master/frontend/src/assets/themes/aero/assets/images/logo.png" width="200">
 </p>
 
 ### Bu yazıda bulunan konular
