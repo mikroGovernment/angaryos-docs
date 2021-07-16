@@ -16,7 +16,7 @@ Angayos; yazılımcıları, işin angarya kısmından kurtarmak için tasarlanm�
 
 ## Kurulum
 
-<Note type="warning">
+<Note type="tip">
 
 Kurulum, docker dahil bütün paketleri otomatik olarak yükleyecektir. Minimum 1 core cpu, 1 GB ram, 10 GB hdd gereklidir
 
