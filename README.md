@@ -9,6 +9,7 @@ Tüm içerik için [tıklayınız](https://mikrogovernment.github.io/angaryos-do
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+### Bu yazıda bulunan konular
 - [Başlangıç](#başlangıç) 
 - [Kurulum](#kurulum) 
 - [Tablo Oluşturma](#tablo-oluşturma) 
