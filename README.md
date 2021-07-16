@@ -1,6 +1,8 @@
 Tüm içerik için [tıklayınız](https://mikrogovernment.github.io/angaryos-docs/)  
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center">
+    <img src="https://github.com/mikroGovernment/angaryos-stack/blob/master/frontend/src/assets/themes/aero/assets/images/logo.png" width="400">
+</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -17,9 +19,23 @@ Tüm içerik için [tıklayınız](https://mikrogovernment.github.io/angaryos-do
 - [API](#api) 
 
 ## Başlangıç
-Angayos; yazılımcıları, işin angarya kısmından kurtarmak için tasarlanmış bir açık kaynak no-code-platform dur
+Angayos; yazılımcıları, işin angarya kısmından kurtarmak için tasarlanmıştır. Kullanıcı ve yetki işlemleri, servis katmanı, raporlar, harita işlemleri gibi bir çok modülü içerisinde barındırır ve sizin tablo yapınıza göre kullanımınıza sunar. Tablo yapınızı arayüz üzerinden tanımlar kullanıcılarınızı yetkilendirir ve hemen kullanmaya başlayabilirsiniz.
 
 ## Kurulum
+
+<Note type="warning">
+
+Kurulum, docker dahil bütün paketleri otomatik olarak yükleyecektir. Minimum 1 core cpu, 1 GB ram, 10 GB hdd gereklidir
+
+</Note>
+
+```
+sudo wget https://raw.githubusercontent.com/MikroGovernment/angaryos-stack/master/start.sh
+sudo chmod +x start.sh
+sudo ./start.sh 
+cd angaryos-stack
+./payload.sh
+```
 
 ## Tablo Oluşturma
 
