@@ -8,7 +8,6 @@ var options = {
   detectSystemDarkTheme: true,
   darkThemeToggler: true,
   //sourcePath: 'http://localhost:8000/',
-  sourcePath: '/angaryos-docs/',
   
   highlight: ['typescript', 'bash', 'json', 'markdown'],
 
