@@ -8,7 +8,7 @@ var options = {
   detectSystemDarkTheme: true,
   darkThemeToggler: true,
   //sourcePath: 'http://localhost:8000/',
-  sourcePath: 'https://mikrogovernment.github.io/angaryos-docs',
+  sourcePath: 'https://mikrogovernment.github.io/angaryos-docs/',
   
   highlight: ['typescript', 'bash', 'json', 'markdown'],
 
