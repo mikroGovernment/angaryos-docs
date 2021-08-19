@@ -7,7 +7,9 @@ var options = {
   router: { mode: 'history' },
   detectSystemDarkTheme: true,
   darkThemeToggler: true,
-  sourcePath: './',
+  //sourcePath: 'http://localhost:8000/',
+  sourcePath: 'https://mikrogovernment.github.io/angaryos-docs/',
+  
   highlight: ['typescript', 'bash', 'json', 'markdown'],
 
   nav: nav,
