@@ -4,7 +4,7 @@ var editLinkTextEn = 'Edit in GitHub';
 var sidebarTr = [
     {
         title: 'Giriş',
-        toc: false,
+        toc: true,
         children: [
             {
                 title: 'Hızlı Başlangıç',
