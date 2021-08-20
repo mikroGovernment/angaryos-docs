@@ -12,7 +12,7 @@ var sidebarTr = [
             },
             {
                 title: 'Tanıtım',
-                link: './docs/giris/tanitim'
+                link: '/docs/giris/tanitim'
             },
             {
                 title: 'Kurulum',
