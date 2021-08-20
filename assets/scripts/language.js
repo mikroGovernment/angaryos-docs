@@ -8,17 +8,17 @@ var sidebarTr = [
         children: [
             {
                 title: 'Hızlı Başlangıç',
-                link: 'https://mikrogovernment.github.io/angaryos-docs/',
+                link: '/',
                 openInNewTab: false
             },
             {
                 title: 'Tanıtım',
-                link: 'https://mikrogovernment.github.io/docs/giris/tanitim',
+                link: 'docs/giris/tanitim',
                 openInNewTab: false
             },
             {
                 title: 'Kurulum',
-                link: '/angaryos-docs/docs/giris/kurulum'
+                link: 'docs/giris/kurulum'
             }
         ]
     },
