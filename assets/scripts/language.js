@@ -17,7 +17,7 @@ var sidebarTr = [
             },
             {
                 title: 'Kurulum',
-                link: '/docs/giris/kurulum'
+                link: '/angaryos-docs/docs/giris/kurulum'
             }
         ]
     },
