@@ -8,7 +8,7 @@ var sidebarTr = [
         children: [
             {
                 title: 'Hızlı Başlangıç',
-                link: '/angaryos-docs/',
+                link: '/angaryos-docs/baslangic',
                 openInNewTab: false
             },
             {
@@ -18,7 +18,7 @@ var sidebarTr = [
             },
             {
                 title: 'Kurulum',
-                link: 'docs/giris/kurulum'
+                link: '/angaryos-docs/docs/giris/kurulum'
             }
         ]
     },
@@ -27,55 +27,55 @@ var sidebarTr = [
         children: [
             {
                 title: 'Tablolara Giriş',
-                link: '/docs/tablolarvekolonlar/tablolaragiris'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/tablolaragiris'
             }, 
             {
                 title: 'Listeler',
-                link: '/docs/tablolarvekolonlar/listeler'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/listeler'
             }, 
             {
                 title: 'Formlar',
-                link: '/docs/tablolarvekolonlar/formlar'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/formlar'
             }, 
             {
                 title: 'Bilgi Kartları',
-                link: '/docs/tablolarvekolonlar/bilgikartilari'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/bilgikartilari'
             }, 
             {
                 title: 'Kolonlara Giriş',
-                link: '/docs/tablolarvekolonlar/kolonlaragiris'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/kolonlaragiris'
             }, 
             {
                 title: 'İlişkili Tablolar',
-                link: '/docs/tablolarvekolonlar/iliskilitablolar'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/iliskilitablolar'
             }, 
             {
                 title: 'İlişkili Kolonlar',
-                link: '/docs/tablolarvekolonlar/iliskilikolonlar'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/iliskilikolonlar'
             }, 
             {
                 title: 'Doğrulamalar',
-                link: '/docs/tablolarvekolonlar/dogrulamalar'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/dogrulamalar'
             }, 
             {
                 title: 'Üst Kolonlar',
-                link: '/docs/tablolarvekolonlar/ustkolonlar'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/ustkolonlar'
             }, 
             {
                 title: 'Toplu Bilgi',
-                link: '/docs/tablolarvekolonlar/toplubilgi'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/toplubilgi'
             },
             {
                 title: 'Kolon Varsayılanı',
-                link: '/docs/tablolarvekolonlar/kolonvarsayilani'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/kolonvarsayilani'
             }, 
             {
                 title: 'Kolon Bilgisi',
-                link: '/docs/tablolarvekolonlar/kolonbilgi'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/kolonbilgi'
             },
             {
                 title: 'Kolon Dizileri ve Setleri',
-                link: '/docs/tablolarvekolonlar/kolondizilerivesetleri'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/kolondizilerivesetleri'
             }
         ]
     },
@@ -85,11 +85,11 @@ var sidebarTr = [
         children: [
             {
                 title: 'Yetki Oluşturma Yardımcısı',
-                link: '/docs/yetkiler/yetkiolusturmayardimcisi'
+                link: '/angaryos-docs/docs/yetkiler/yetkiolusturmayardimcisi'
             },
             {
                 title: 'Filtreler',
-                link: '/docs/yetkiler/filtreler'
+                link: '/angaryos-docs/docs/yetkiler/filtreler'
             }
         ]
     },
@@ -99,61 +99,61 @@ var sidebarTr = [
         children: [
             {
                 title: 'Referanslar',
-                link: '/docs/yardimciozellikler/referanslar'
+                link: '/angaryos-docs/docs/yardimciozellikler/referanslar'
             },
             {
                 title: 'Tetikleyiciler',
-                link: '/docs/yardimciozellikler/tetikleyiciler'
+                link: '/angaryos-docs/docs/yardimciozellikler/tetikleyiciler'
             },
             {
                 title: 'Görevler',
-                link: '/docs/yardimciozellikler/gorevler'
+                link: '/angaryos-docs/docs/yardimciozellikler/gorevler'
             },
             {
                 title: 'Yardımcı Fonksiyonlar',
-                link: '/docs/yardimciozellikler/yardimcifonksiyonlar'
+                link: '/angaryos-docs/docs/yardimciozellikler/yardimcifonksiyonlar'
             },
             {
                 title: 'Yardımcı Sınıflar',
-                link: '/docs/yardimciozellikler/yardimcisiniflar'
+                link: '/angaryos-docs/docs/yardimciozellikler/yardimcisiniflar'
             },
             {
                 title: 'Ayarlar',
-                link: '/docs/yardimciozellikler/ayarlar'
+                link: '/angaryos-docs/docs/yardimciozellikler/ayarlar'
             },
             {
                 title: 'Duyurular',
-                link: '/docs/yardimciozellikler/duyurular'
+                link: '/angaryos-docs/docs/yardimciozellikler/duyurular'
             },
             {
                 title: 'Tablo Grupları',
-                link: '/docs/yardimciozellikler/tablogruplari'
+                link: '/angaryos-docs/docs/yardimciozellikler/tablogruplari'
             },
             {
                 title: 'Ek Linkler',
-                link: '/docs/yardimciozellikler/eklinkler'
+                link: '/angaryos-docs/docs/yardimciozellikler/eklinkler'
             },
             {
                 title: 'Serbest İçerik',
-                link: '/docs/yardimciozellikler/serbesticerik'
+                link: '/angaryos-docs/docs/yardimciozellikler/serbesticerik'
             },
             {
                 title: 'Üyelik İstekleri',
-                link: '/docs/yardimciozellikler/tetikleyiciler'
+                link: '/angaryos-docs/docs/yardimciozellikler/tetikleyiciler'
             },
             {
                 title: 'Ekstralar',
-                link: '/docs/yardimciozellikler/ekstralar'
+                link: '/angaryos-docs/docs/yardimciozellikler/ekstralar'
             }
         ]
     },
     {
         title: 'İçe / Dışa Aktarma',
-        link: '/docs/icedisaaktarma'
+        link: '/angaryos-docs/docs/icedisaaktarma'
     },
     {
         title: 'Raporlar',
-        link: '/docs/icedisaaktarma'
+        link: '/angaryos-docs/docs/icedisaaktarma'
     },
     {
         title: 'Data Entagratör',
@@ -161,25 +161,25 @@ var sidebarTr = [
         children: [
             {
                 title: 'Data Entagratöre Giriş',
-                link: '/docs/dataentegrator/'
+                link: '/angaryos-docs/docs/dataentegrator/'
             },
             {
                 title: 'Excel',
-                link: '/docs/dataentegrator/excel'
+                link: '/angaryos-docs/docs/dataentegrator/excel'
             },
             {
                 title: 'Postgresql',
-                link: '/docs/dataentegrator/postgresql'
+                link: '/angaryos-docs/docs/dataentegrator/postgresql'
             },
             {
                 title: 'Ldap',
-                link: '/docs/dataentegrator/ldap'
+                link: '/angaryos-docs/docs/dataentegrator/ldap'
             }
         ]
     },
     {
         title: 'E-imza',
-        link: '/docs/eimza'
+        link: '/angaryos-docs/docs/eimza'
     },
     {
         title: 'Harita',
@@ -187,23 +187,23 @@ var sidebarTr = [
         children: [
             {
                 title: 'Harita Giriş',
-                link: '/docs/harita/haritayagiris'
+                link: '/angaryos-docs/docs/harita/haritayagiris'
             },
             {
                 title: 'Serbest Harita',
-                link: '/docs/harita/serbestharita'
+                link: '/angaryos-docs/docs/harita/serbestharita'
             },
             {
                 title: 'Katmanlar',
-                link: '/docs/harita/katmanlar'
+                link: '/angaryos-docs/docs/harita/katmanlar'
             },
             {
                 title: 'Katman Stili',
-                link: '/docs/harita/katmanstili'
+                link: '/angaryos-docs/docs/harita/katmanstili'
             },
             {
                 title: 'Coğrafi Veri Üretme',
-                link: '/docs/harita/cografiveriuretme'
+                link: '/angaryos-docs/docs/harita/cografiveriuretme'
             }
         ]
     },
@@ -213,11 +213,11 @@ var sidebarTr = [
         children: [
             {
                 title: 'Cihaz Auth',
-                link: '/docs/iot/cihazauth'
+                link: '/angaryos-docs/docs/iot/cihazauth'
             },
             {
                 title: 'Mesai Takip Cihazı',
-                link: '/docs/iot/mesaitakipcihazi'
+                link: '/angaryos-docs/docs/iot/mesaitakipcihazi'
             }
         ]
     },
@@ -227,15 +227,15 @@ var sidebarTr = [
         children: [
             {
                 title: 'Göstergeler',
-                link: '/docs/frontend/gostergeler'
+                link: '/angaryos-docs/docs/frontend/gostergeler'
             },
             {
                 title: 'Kolon Arayüz Tetiklemeleri',
-                link: '/docs/frontend/kolonarayuztetiklemeleri'
+                link: '/angaryos-docs/docs/frontend/kolonarayuztetiklemeleri'
             },
             {
                 title: 'Form Kolon Görünürlükleri',
-                link: '/docs/frontend/formkolongorunurlukleri'
+                link: '/angaryos-docs/docs/frontend/formkolongorunurlukleri'
             }
         ]
     },
@@ -245,43 +245,43 @@ var sidebarTr = [
         children: [
             {
                 title: 'Genel',
-                link: '/docs/gelistiriciback/genel'
+                link: '/angaryos-docs/docs/gelistiriciback/genel'
             },
             {
                 title: 'Mimari',
-                link: '/docs/gelistiriciback/mimari'
+                link: '/angaryos-docs/docs/gelistiriciback/mimari'
             },
             {
                 title: 'Router',
-                link: '/docs/gelistiriciback/router'
+                link: '/angaryos-docs/docs/gelistiriciback/router'
             },
             {
                 title: 'Controller',
-                link: '/docs/gelistiriciback/controller'
+                link: '/angaryos-docs/docs/gelistiriciback/controller'
             },
             {
                 title: 'Models',
-                link: '/docs/gelistiriciback/models'
+                link: '/angaryos-docs/docs/gelistiriciback/models'
             },
             {
                 title: 'Listeners',
-                link: '/docs/gelistiriciback/listeners'
+                link: '/angaryos-docs/docs/gelistiriciback/listeners'
             },
             {
                 title: 'Triggers',
-                link: '/docs/gelistiriciback/triggers'
+                link: '/angaryos-docs/docs/gelistiriciback/triggers'
             },
             {
                 title: 'Kernel',
-                link: '/docs/gelistiriciback/kernel'
+                link: '/angaryos-docs/docs/gelistiriciback/kernel'
             },
             {
                 title: 'Jobs',
-                link: '/docs/gelistiriciback/jobs'
+                link: '/angaryos-docs/docs/gelistiriciback/jobs'
             },
             {
                 title: 'Custom Logs',
-                link: '/docs/gelistiriciback/customlogs'
+                link: '/angaryos-docs/docs/gelistiriciback/customlogs'
             }
         ]
     },
@@ -291,23 +291,23 @@ var sidebarTr = [
         children: [
             {
                 title: 'Genel',
-                link: '/docs/gelistiricifront/genel'
+                link: '/angaryos-docs/docs/gelistiricifront/genel'
             },
             {
                 title: 'Mimari',
-                link: '/docs/gelistiricifront/mimari'
+                link: '/angaryos-docs/docs/gelistiricifront/mimari'
             },
             {
                 title: 'Custom List Elements',
-                link: '/docs/gelistiricifront/customlistelements'
+                link: '/angaryos-docs/docs/gelistiricifront/customlistelements'
             },
             {
                 title: 'Custom Form Elements',
-                link: '/docs/gelistiricifront/customformelements'
+                link: '/angaryos-docs/docs/gelistiricifront/customformelements'
             },
             {
                 title: 'Custom Dashboard Elements',
-                link: '/docs/gelistiricifront/customdashboardelements'
+                link: '/angaryos-docs/docs/gelistiricifront/customdashboardelements'
             }
         ]
     },
@@ -317,7 +317,7 @@ var sidebarTr = [
         children: [
             {
                 title: 'Genel',
-                link: '/docs/mobil/genel'
+                link: '/angaryos-docs/docs/mobil/genel'
             }
         ]
     },
@@ -327,11 +327,11 @@ var sidebarTr = [
         children: [
             {
                 title: 'Şalon Sayfa',
-                link: '/docs/dokumanolusturmarehberi/sablonsayfa'
+                link: '/angaryos-docs/docs/dokumanolusturmarehberi/sablonsayfa'
             },
             {
                 title: 'Kullanılabilecek Nesneler',
-                link: '/docs/dokumanolusturmarehberi/kullanilabileceknesneler'
+                link: '/angaryos-docs/docs/dokumanolusturmarehberi/kullanilabileceknesneler'
             }
         ]
     },
