@@ -3,7 +3,7 @@ var layout = 'wide';
 var target = '#angaryos';
 var gitHubText = 'GitHub';
 
-var editLinkBase = 'https://github.com/mikroGovernment/angaryos-docs';
+var editLinkBase = 'https://github.com/mikroGovernment';
 var githubLinkBase = 'https://github.com/mikroGovernment/angaryos-stack';
 
 
