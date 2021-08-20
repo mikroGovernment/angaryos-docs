@@ -7,7 +7,7 @@ var options = {
   router: { mode: 'history' },
   detectSystemDarkTheme: true,
   darkThemeToggler: true,
-  sourcePath: './', 
+  sourcePath: '/', 
   
   highlight: ['typescript', 'bash', 'json', 'markdown'],
 
