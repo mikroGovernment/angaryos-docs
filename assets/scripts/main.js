@@ -23,4 +23,4 @@ var options = {
 
 new Docute(options);
 
-alert(3);
+alert(4);
