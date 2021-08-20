@@ -8,7 +8,7 @@ var sidebarTr = [
         children: [
             {
                 title: 'Hızlı Başlangıç',
-                link: '/'
+                link: 'angaryos-docs/'
             },
             {
                 title: 'Tanıtım',
