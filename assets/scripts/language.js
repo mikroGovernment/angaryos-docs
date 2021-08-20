@@ -10,6 +10,7 @@ var sidebarTr = [
                 title: 'Hızlı Başlangıç',
                 link: 'https://mikrogovernment.github.io/angaryos-docs',
                 openInNewTab: false
+            },
             {
                 title: 'Tanıtım',
                 link: 'https://mikrogovernment.github.io/angaryos-docs/docs/giris/tanitim',
