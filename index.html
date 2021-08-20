@@ -34,8 +34,13 @@
 </body>
 
 <script>
-    if(window.location.href == '')
+    if(window.location.href == 'https://mikrogovernment.github.io/angaryos-docs/' || window.location.href == 'https://mikrogovernment.github.io/angaryos-docs')
+    {
         $('[href="/angaryos-docs/baslangic"]').click();
+        console.log("redirect");
+        console.log($('[href="/angaryos-docs/baslangic"]').html());
+    }
+        
 </script>
 
 </html>
