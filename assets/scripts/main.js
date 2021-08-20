@@ -7,7 +7,7 @@ var options = {
   router: { mode: 'history' },
   detectSystemDarkTheme: true,
   darkThemeToggler: true,
-  sourcePath: 'angaryos-docs',
+  sourcePath: '/',
   
   highlight: ['typescript', 'bash', 'json', 'markdown'],
 
