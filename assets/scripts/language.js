@@ -31,7 +31,7 @@ var sidebarTr = [
             }, 
             {
                 title: 'Listeler',
-                link: '/angaryos-docs/docs/tablolarvekolonlar/listeler'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/listeler'//TODO dom işlemleri, hızlı düzenle, canlı veri hepsini burada anlat
             }, 
             {
                 title: 'Formlar',
@@ -153,7 +153,7 @@ var sidebarTr = [
     },
     {
         title: 'Raporlar',
-        link: '/angaryos-docs/docs/icedisaaktarma'
+        link: '/angaryos-docs/docs/raporlar'
     },
     {
         title: 'Data Entagratör',
@@ -229,14 +229,14 @@ var sidebarTr = [
                 title: 'Göstergeler',
                 link: '/angaryos-docs/docs/frontend/gostergeler'
             },
-            {
+            /*{
                 title: 'Kolon Arayüz Tetiklemeleri',
                 link: '/angaryos-docs/docs/frontend/kolonarayuztetiklemeleri'
             },
             {
-                title: 'Form Kolon Görünürlükleri',
+                title: 'Form Kolon Görünürlük Kuralları',
                 link: '/angaryos-docs/docs/frontend/formkolongorunurlukleri'
-            }
+            }*/
         ]
     },
     {
@@ -288,7 +288,7 @@ var sidebarTr = [
     {
         title: 'Geliştirici (Frontend)',
         toc: false,
-        children: [
+        children: [ //TODO Sıralama değişebilir
             {
                 title: 'Genel',
                 link: '/angaryos-docs/docs/gelistiricifront/genel'
@@ -308,7 +308,15 @@ var sidebarTr = [
             {
                 title: 'Custom Dashboard Elements',
                 link: '/angaryos-docs/docs/gelistiricifront/customdashboardelements'
-            }
+            },
+            {
+                title: 'Column Visibility Rules',
+                link: '/angaryos-docs/docs/gelistiricifront/columnvisibilityrules'
+            },
+            {
+                title: 'Kolon Arayüz Tetiklemeleri',
+                link: '/angaryos-docs/docs/frontend/kolonarayuztetiklemeleri'
+            },
         ]
     },
     {
