@@ -43,7 +43,7 @@ var sidebarTr = [
             }, 
             {
                 title: 'Kolonlara Giriş',
-                link: '/angaryos-docs/docs/tablolarvekolonlar/kolonlaragiris'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/kolonlaragiris'//tüm kolon tipleri. select ler içinde source: display: şekilnde arama
             }, 
             {
                 title: 'İlişkili Tablolar',
@@ -142,6 +142,10 @@ var sidebarTr = [
                 link: '/angaryos-docs/docs/yardimciozellikler/tetikleyiciler'
             },
             {
+                title: 'Arama',
+                link: '/angaryos-docs/docs/yardimciozellikler/arama'//genel string arama, haritada string arma, coğrafi arama
+            },
+            {
                 title: 'Ekstralar',
                 link: '/angaryos-docs/docs/yardimciozellikler/ekstralar'
             }
@@ -195,11 +199,11 @@ var sidebarTr = [
             },
             {
                 title: 'Katmanlar',
-                link: '/angaryos-docs/docs/harita/katmanlar'
+                link: '/angaryos-docs/docs/harita/katmanlar'//lejant ve sağ tık ile lejant kapatma  // ek katmanlar da koy onun içinde tablo kolunu da var açıkla
             },
             {
                 title: 'Katman Stili',
-                link: '/angaryos-docs/docs/harita/katmanstili'
+                link: '/angaryos-docs/docs/harita/katmanstili'//örnek sld ve js koy
             },
             {
                 title: 'Coğrafi Veri Üretme',
@@ -221,6 +225,8 @@ var sidebarTr = [
             }
         ]
     },
+
+    //Bu frontend tamamen kaldırılabilir. geliştirici içine göstergeler ve geliştirme koyulabilir
     {
         title: 'Frontend',
         toc: false,
@@ -254,6 +260,10 @@ var sidebarTr = [
             {
                 title: 'Router',
                 link: '/angaryos-docs/docs/gelistiriciback/router'
+            },
+            {
+                title: 'Debugging',
+                link: '/angaryos-docs/docs/gelistiriciback/debugging'//dd_live, pipe içinden stop column classification //tüm variables buraya koy
             },
             {
                 title: 'Controller',
