@@ -43,6 +43,7 @@ Tablolar ve Kolonlar
         #sorgu işleri, listede olmasa bile bi kolona sorgulama yapabilir bunun için yetki verebilirsiniz de. kolon dizileri içinde #sorgu ya link ver 
         #hızlı arama
         #detaylı arama
+        # genel arama
 
         # grup by modu geliyor de
         
@@ -56,6 +57,7 @@ Tablolar ve Kolonlar
         #gui trigger -- ilgili sayfaya link ver
         #ilgili kaydı form içinde düzenlemeyebilme ekleyebilme
         #coğrafi kolona kml, netcad copyed data live location ekleyebilme 
+        #
 
     - Bilgi kartı
         #genel bilgi ve ... 
@@ -71,6 +73,12 @@ Tablolar ve Kolonlar
         #genel bilgi, ilişki de verebilirsiniz de ilişkiler tablosuna link ver
         #db type, 
         #gui type
+        #default data
+        #autofill
+
+        #bu aşağıdakileri başka yere taşıyabilirsin
+        #gui triiger
+        #column visibility
 
     - İlişkili Tablolar
         #tipler tablosu ve ana tabloyu oluştur ilişkili tablo göster.
@@ -177,6 +185,8 @@ Geliştirici (Backend)
     -jobs
     -custom logs
         #rabbit
+        #column classification 
+        #helper('debug_column_classification')
 
 
 Geliştirici (Frontend)
