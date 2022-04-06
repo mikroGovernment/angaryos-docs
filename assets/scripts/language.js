@@ -150,6 +150,20 @@ var sidebarTr = [
                 link: '/angaryos-docs/docs/yardimciozellikler/ekstralar'
             }
         ]
+    },    
+    {
+        title: 'Çoklu Dil',
+        toc: false,
+        children: [
+            {
+                title: 'Backend',
+                link: '/angaryos-docs/docs/language/backend'//lib, helper, config/language
+            },
+            {
+                title: 'Frontend',
+                link: '/angaryos-docs/docs/language/frontend'//languagehelper
+            }
+        ]
     },
     {
         title: 'İçe / Dışa Aktarma',
