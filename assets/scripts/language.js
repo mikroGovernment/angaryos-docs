@@ -18,7 +18,7 @@ var sidebarTr = [
             },
             {
                 title: 'Kurulum',
-                link: '/angaryos-docs/docs/giris/kurulum'
+                link: '/angaryos-docs/docs/giris/kurulum'//varsayılan şifreleri burada ver
             }
         ]
     },
