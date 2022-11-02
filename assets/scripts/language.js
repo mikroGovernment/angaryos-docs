@@ -35,7 +35,7 @@ var sidebarTr = [
             }, 
             {
                 title: 'Formlar',
-                link: '/angaryos-docs/docs/tablolarvekolonlar/formlar'
+                link: '/angaryos-docs/docs/tablolarvekolonlar/formlar'//gui trigger kısaca burada girilebilir
             }, 
             {
                 title: 'Bilgi Kartları',
@@ -43,7 +43,7 @@ var sidebarTr = [
             }, 
             {
                 title: 'Kolonlara Giriş',
-                link: '/angaryos-docs/docs/tablolarvekolonlar/kolonlaragiris'//tüm kolon tipleri. select ler içinde source: display: şekilnde arama
+                link: '/angaryos-docs/docs/tablolarvekolonlar/kolonlaragiris'//tüm kolon tipleri. select ler içinde source: display: şekilnde arama, başka yer yoksa kolon eklerken girdiğimiz tüm fieldleri açıkla. autocomplaete gibi gui triggerları da. gui trigger bişeyni içine de alınabilr. kolon arayüz tetiklemeler başlık olarak var ama o geliiştirici kısmında var olanlar nederede açıklanacak bi incele
             }, 
             {
                 title: 'İlişkili Tablolar',
@@ -148,6 +148,10 @@ var sidebarTr = [
             {
                 title: 'Ekstralar',
                 link: '/angaryos-docs/docs/yardimciozellikler/ekstralar'
+            },
+            {
+                title: 'Güvenlik',//bunu biraz yukarı alabiliriz
+                link: '/angaryos-docs/docs/yardimciozellikler/guvenlik'
             }
         ]
     },    
@@ -251,10 +255,10 @@ var sidebarTr = [
             },
             /*{
                 title: 'Kolon Arayüz Tetiklemeleri',
-                link: '/angaryos-docs/docs/frontend/kolonarayuztetiklemeleri'
+                link: '/angaryos-docs/docs/frontend/kolonarayuztetiklemeleri' //taşındı ama o geliştirici. var olanlar burada açıklaabilir belki?
             },
             {
-                title: 'Form Kolon Görünürlük Kuralları',
+                title: 'Form Kolon Görünürlük Kuralları', //aynı şekilde bu da tukarıdaki gibi.
                 link: '/angaryos-docs/docs/frontend/formkolongorunurlukleri'
             }*/
         ]
@@ -339,7 +343,7 @@ var sidebarTr = [
             },
             {
                 title: 'Kolon Arayüz Tetiklemeleri',
-                link: '/angaryos-docs/docs/frontend/kolonarayuztetiklemeleri'
+                link: '/angaryos-docs/docs/frontend/kolonarayuztetiklemeleri' 
             },
         ]
     },
