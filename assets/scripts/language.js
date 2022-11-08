@@ -175,7 +175,94 @@ var sidebarTr = [
     },
     {
         title: 'Raporlar',
-        link: '/angaryos-docs/docs/raporlar'
+        link: '/angaryos-docs/docs/raporlar',
+        /*
+        italic' => true,
+							
+							
+            $style['A1'] = 
+        [
+            'color' => '#0000ff',
+            'background-color' => '#cCffff',
+            'merge-cell' => 'I1',
+            'font-size' => 12,
+            'font-family' => 'Times New Roman',
+            'height' => 24,
+            'bold' => true,
+            'horizontal' => 'HORIZONTAL_CENTER',
+            'vertical' =>  'VERTICAL_CENTER',
+            'border' => 
+            [
+                'area' => 'A1:I10',
+                'type' => 'allBorders',
+                'color' => '#000000',
+                'size' => 'MEDIUM'
+            ]
+        ];
+        
+        
+        $baslikSitili = 
+        [
+            'bold' => true,
+            'font-family' => 'Times New Roman',
+            'font-size' => 10,
+            'horizontal' => 'HORIZONTAL_CENTER',
+            'vertical' =>  'VERTICAL_CENTER',
+            'height' => 26,
+            'wrap-text' => true
+        ];
+
+        'border' => 
+            [
+                'type' => 'outline',
+                'color' => '#000000',
+                'size' => 'MEDIUM'
+            ]
+            
+            
+            left: ->getLeft()
+            right: ->getRight()
+            top: ->getTop()
+            bottom: ->getBottom()
+            diagonal: ->getDiagonal()
+            
+            
+            //https://stackoverflow.com/questions/46959282/styling-cell-borders-with-phpspreadsheet-php
+            
+            
+            Border::BORDER_DASHDOT
+            Border::BORDER_DASHDOTDOT
+            Border::BORDER_DASHED
+            Border::BORDER_DOTTED
+            Border::BORDER_DOUBLE
+            Border::BORDER_HAIR
+            Border::BORDER_MEDIUM
+            Border::BORDER_MEDIUMDASHDOT
+            Border::BORDER_MEDIUMDASHDOTDOT
+            Border::BORDER_MEDIUMDASHED
+            Border::BORDER_NONE
+            Border::BORDER_SLANTDASHDOT
+            Border::BORDER_THICK
+            Border::BORDER_THIN
+
+
+
+
+            Alignment::HORIZONTAL_GENERAL or 'general'
+            Alignment::HORIZONTAL_LEFT or 'left'
+            Alignment::HORIZONTAL_RIGHT or 'right'
+            Alignment::HORIZONTAL_CENTER or 'center'
+            Alignment::HORIZONTAL_CENTER_CONTINUOUS or 'centerContinuous'
+            Alignment::HORIZONTAL_JUSTIFY or 'justify'
+            Alignment::HORIZONTAL_FILL or 'fill'
+            Alignment::HORIZONTAL_DISTRIBUTED or 'distributed' (Excel2007 only)
+            for vertical alignment:
+            Alignment::VERTICAL_BOTTOM or 'bottom'
+            Alignment::VERTICAL_TOP or 'top'
+            Alignment::VERTICAL_CENTER or 'center'
+            Alignment::VERTICAL_JUSTIFY or 'justify'
+            Alignment::VERTICAL_DISTRIBUTED or 'distributed' (Excel2007 only)
+        */
     },
     {
         title: 'Data Entagratör',
