@@ -150,7 +150,7 @@ var sidebarTr = [
                 link: '/angaryos-docs/docs/yardimciozellikler/ekstralar'
             },
             {
-                title: 'Güvenlik',//bunu biraz yukarı alabiliriz
+                title: 'Güvenlik',//bunu biraz yukarı alabiliriz//sql enj// xss filter
                 link: '/angaryos-docs/docs/yardimciozellikler/guvenlik'
             }
         ]
@@ -398,6 +398,8 @@ var sidebarTr = [
                 title: 'Custom Logs',
                 link: '/angaryos-docs/docs/gelistiriciback/customlogs'
             }
+            //buraya genel helper fonksiyonları yada direk fonksiyon lardan bazıları açıklanabilir
+            //get_base_record()
         ]
     },
     {
